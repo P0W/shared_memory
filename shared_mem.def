@@ -1,0 +1,6 @@
+EXPORTS
+CreateSharedMemory
+GetSharedMemoryRegion
+ReadSharedMemory
+RemoveSharedMemory
+WriteSharedMemory
